@@ -32,3 +32,11 @@ El rescate generalmente se solicita en criptomonedas para dificultar el rastreo.
 
 Propagación :
 Algunos ransomware incluyen mecanismos para propagarse a otros dispositivos en la misma red.
+
+Video Demo:
+
+
+https://github.com/user-attachments/assets/ab3e09aa-5c05-46f4-b0f4-53cdba08ee70
+
+
+
