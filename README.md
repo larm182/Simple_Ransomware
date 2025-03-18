@@ -17,12 +17,18 @@ Aunque este documento no incluye código, podemos analizar los componentes típi
 
 Cifrado de Archivos :
 Los archivos de la víctima son cifrados utilizando algoritmos criptográficos fuertes, como AES o RSA.
+
 Una clave de cifrado única es generada para cada víctima y almacenada en un servidor controlado por el atacante.
 Comunicación con el Atacante :
+
 Un servidor (por ejemplo, usando Flask en Python) puede ser utilizado para gestionar las claves de cifrado y recibir pagos.
+
 La comunicación entre el ransomware y el servidor suele realizarse a través de protocolos como HTTP/HTTPS.
+
 Extorsión :
+
 La víctima recibe un mensaje indicando que sus archivos han sido cifrados y que debe pagar un rescate para recuperarlos.
 El rescate generalmente se solicita en criptomonedas para dificultar el rastreo.
+
 Propagación :
 Algunos ransomware incluyen mecanismos para propagarse a otros dispositivos en la misma red.
